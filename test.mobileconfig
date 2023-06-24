@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <dict>
+        <!-- Add your payload content here -->
+    </dict>
+    <key>PayloadDisplayName</key>
+    <string>Configuration Name</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.mobileconfig</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>F2609BEA-93D6-4966-8487-33713DBCB644</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
