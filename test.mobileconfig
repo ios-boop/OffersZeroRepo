@@ -7,15 +7,15 @@
         <!-- Add your payload content here -->
     </dict>
     <key>PayloadDisplayName</key>
-    <string>Configuration Name</string>
+    <string>Configuration Profile</string>
     <key>PayloadIdentifier</key>
-    <string>com.example.mobileconfig</string>
+    <string>com..</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>F2609BEA-93D6-4966-8487-33713DBCB644</string>
+    <string>ADD-UNIQUE-UUID-HERE</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
