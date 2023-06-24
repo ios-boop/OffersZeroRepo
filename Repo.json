@@ -1,1 +1,94 @@
-
+{
+	"META": {
+		"repoName": "0FF3R ║ Z3R0",
+		"repoIcon": ""
+	},
+      "Hacked Apps": [{
+		"name": "PlenixClash",
+		"version": "v13.369.29",
+             "icon": "https://iosninja.io/img/ipas/clash-of-clans.png",
+             "dev": "StavrosHacker",
+		"down": "",
+		"category": "Hacked Apps",
+		"description": "",
+		"bundleID": "",
+		"appstore": ""
+             "enableBackup": true,
+		"contact": {
+			"web": "https://stavros.xyz/",
+			"twitter": "https://twitter.com/StavrosHacker"
+	       }
+	}, {
+             "name": "ipa_name (optional)",
+		"version": "ipa_version (optional)",
+             "icon": "ipa_icon_link (optional)",
+             "dev": "",
+		"down": "ipa_download_link (required)",
+		"category": "ipa_category (required)",
+             "changelog": "ipa_ChangeLog (Optional)",
+		"description": "ipa_Description (Optional)",
+		"bundleID": "ipa_BundleID (required)",
+		"appstore": "ipa_appstore (put this the same as "BundleID")"
+             "debs": [
+			"Deb_Or_Dylib_File_Link (Optional",
+			"Deb_Or_Dylib_File_Link (Optional",
+			"Deb_Or_Dylib_File_Link (Optional"
+		],
+             "enableBackup": true,
+		"contact": {
+			"web": "ipa_Web_Link (Optional)",
+			"twitter": "ipa_Twitter_Link (Optional)"
+      }],
+        "Paid Apps": [{
+		"name": "AnyFont",
+		"version": "1.0",
+             "icon": "https://raw.githubusercontent.com/ios-boop/OffersZeroRepo/main/img/AnyFont.png",
+             "dev": "Florian Schimanke",
+		"down": "https://archive.org/download/any-font/Any-Font.ipa",
+		"category": "Paid Apps",
+		"description": "Cracked AnyFont",
+		"bundleID": "com.mobilab.SafariExtensionCustomFontiOS",
+		"appstore": "com.mobilab.SafariExtensionCustomFontiOS"
+             "enableBackup": true,
+		"contact": {
+			"web": "https://www.anyfont.app/"
+	       }
+	}, {
+             "name": "GTA:SA",
+		"version": "",
+             "icon": "ipa_icon_link (optional)",
+             "dev": "Rockstar Games",
+		"down": "https://tweakhome.app/Apps/ipas/GTA-San-Andreas.ipa",
+		"category": "Paid Games",
+             "changelog": "",
+		"description": "",
+		"bundleID": "",
+		"appstore": "ipa_appstore (put this the same as "BundleID")",
+             "enableBackup": true
+      }],
+        "Paid Games": [{
+		"name": "GTA:SA",
+		"version": "1.0",
+             "icon": "",
+             "dev": "Rockstar Games",
+		"down": "https://tweakhome.app/Apps/ipas/GTA-San-Andreas.ipa",
+		"category": "Paid Games",
+		"description": "GTA:SA Cracked",
+		"bundleID": "com.rockstargames.GtaSa",
+		"appstore": "com.rockstargames.GtaSa"
+             "enableBackup": true,
+	}, {
+             "name": "GTA:SA",
+		"version": "",
+             "icon": "ipa_icon_link (optional)",
+             "dev": "Rockstar Games",
+		"down": "https://tweakhome.app/Apps/ipas/GTA-San-Andreas.ipa",
+		"category": "Paid Games",
+             "changelog": "ipa_ChangeLog (Optional)",
+		"description": "ipa_Description (Optional)",
+		"bundleID": "ipa_BundleID (required)",
+		"appstore": "ipa_appstore (put this the same as "BundleID")"
+             "enableBackup": true,
+		"contact": {
+			"web": "ipa_Web_Link (Optional)",
+			"twitter": "ipa_Twitter_Link (Optional)"
