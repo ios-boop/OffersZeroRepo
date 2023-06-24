@@ -9,13 +9,13 @@
     <key>PayloadDisplayName</key>
     <string>Configuration Profile</string>
     <key>PayloadIdentifier</key>
-    <string>com..</string>
+    <string>com.TSB.BlockYX</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>ADD-UNIQUE-UUID-HERE</string>
+    <string>F2609BEA-93D6-4966-8487-33713DBCB644</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
